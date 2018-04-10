@@ -1,1 +1,1 @@
-worker: node maxy.py
+worker: node maxybot.py
